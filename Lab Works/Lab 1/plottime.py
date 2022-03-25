@@ -68,16 +68,3 @@ def plot_graph(plotdatas):
 if __name__=="__main__":
     plotdatas = fetch_plotdatas() #fetch graph plot datas
     plot_graph(plotdatas) #plot input-size vs execution-time graph
-
-    
-    
-
-
-
-    
-    
-
-
-        
-        
-        
